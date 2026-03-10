@@ -21,6 +21,8 @@ Aprendizaje no supervisado
 El modelo trabaja con datos sin etiquetas y busca patrones o grupos por sí mismo.
 Ejemplo: agrupar clientes según sus hábitos de compra.
 
-Aprendizaje por refuerzo 🎮
+Aprendizaje por refuerzo 
+El sistema aprende probando acciones y recibiendo recompensas o castigos según sus resultados.
+Ejemplo: un programa que aprende a jugar videojuegos o controlar robots.
 El sistema aprende probando acciones y recibiendo recompensas o castigos según sus resultados.
 Ejemplo: un programa que aprende a jugar videojuegos o controlar robots.
