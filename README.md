@@ -24,5 +24,30 @@ Ejemplo: agrupar clientes según sus hábitos de compra.
 Aprendizaje por refuerzo 
 El sistema aprende probando acciones y recibiendo recompensas o castigos según sus resultados.
 Ejemplo: un programa que aprende a jugar videojuegos o controlar robots.
+# 3) ¿que es markdown?
+**Markdown** es un **lenguaje de marcado simple** que se usa para **dar formato a textos** de manera rápida y fácil usando símbolos en lugar de botones.
+
+Sirve para crear **documentos, páginas web, README de proyectos, apuntes o mensajes con formato** sin usar programas complicados.
+
+### Ejemplos de Markdown 
+
+* **Negrita**
+  `**texto**` → **texto**
+
+* *Cursiva*
+  `*texto*` → *texto*
+
+* Títulos
+  `# Título`
+  `## Subtítulo`
+### ¿Dónde se usa Markdown? 
+
+Se usa mucho en:
+
+* **GitHub**
+* documentación de proyectos
+* blogs
+* aplicaciones de notas
+
 El sistema aprende probando acciones y recibiendo recompensas o castigos según sus resultados.
 Ejemplo: un programa que aprende a jugar videojuegos o controlar robots.
