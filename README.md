@@ -79,3 +79,16 @@ En el uso cotidiano actual, también se distinguen las IA por su tipo de modelo 
 *   **IA Generativa:** Crea contenido nuevo (texto, imágenes, audio) a partir de datos existentes (ej. **ChatGPT**, **DALL-E**).
 *   **IA Predictiva:** Analiza datos históricos para identificar patrones y predecir resultados futuros.
 *   **Modelos de Lenguaje (LLMs):** Especializados en procesar y generar lenguaje humano a gran escala (ej. **Gemini** o **Claude**).
+# para que sirven las librerias en phyton
+1. Pandas (El "Excel" de Python)
+Es la librería principal para la manipulación y análisis de datos. Permite trabajar con estructuras de datos llamadas DataFrames (tablas de filas y columnas). 
+Sirve para: Leer archivos CSV o Excel, filtrar información, limpiar datos faltantes y agrupar estadísticas.
+Ejemplo: Cargar una lista de ventas de un año y calcular el promedio de ingresos por mes. 
+2. Matplotlib (La herramienta de Visualización)
+Es la librería básica para crear gráficos estáticos, animados e interactivos. 
+Sirve para: Convertir números en representaciones visuales que sean fáciles de entender.
+Ejemplo: Crear un gráfico de barras para comparar las ventas de diferentes productos o un gráfico de líneas para ver la tendencia de una acción en la bolsa.
+3. NumPy (Cálculo Numérico de Alto Rendimiento)
+Es la base sobre la que se construyen casi todas las demás librerías científicas. Se especializa en el manejo de vectores y matrices. 
+Sirve para: Realizar operaciones matemáticas avanzadas y álgebra lineal de forma extremadamente rápida.
+Ejemplo: Hacer cálculos complejos sobre millones de números simultáneamente (como procesar los píxeles de una imagen). 
